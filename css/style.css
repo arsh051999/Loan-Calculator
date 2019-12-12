@@ -1,0 +1,9 @@
+body
+{
+background: url("bg-calc1.jpg") no-repeat;
+background-size: cover;
+background-attachment:fixed;
+text-align:center;
+button-type:submit;
+
+}
